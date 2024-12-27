@@ -1,3 +1,33 @@
+# ZEKAR's dwm.
+
+## Patches applied
+- actualfullscreen
+- attachbottom
+- autostart
+- alwayscenter
+- push\_no\_master
+- resizehere
+> ~~ChatGPT~~ **I** added something similar to the resizecorners patch, but made to work with the resizehere patch. No there's no diff file (neither I'm planning on releasing one), but if you want, just look the resizemouse() function.
+- savefloats
+- smartborders
+
+## Keybinds
+**Mod + d**: dmenu.
+**Mod + Enter**: st.
+**Mod + j**: Go down the stack.
+**Mod + k**: Go up the stack.
+**Mod + Shift + j**: Move down the stack.
+**Mod + Shift + k**: Move up the stack.
+**Mod + i**: Increase master.
+**Mod + u**: Decrease master.
+**Mod + h**: Change window size left.
+**Mod + l**: Change window size right.
+**Mod + m**: Set master.
+**Mod + q**: Kill active window.
+**Mod + v**: Toggle floating mode.
+**Mod + f**: Toggle fullscreen.
+
+_The rest of this file is the default dwm reame_
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
