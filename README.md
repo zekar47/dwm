@@ -28,6 +28,7 @@
 **Mod + f**: Toggle fullscreen.  
 
 _The rest of this file is the default dwm reame_
+
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
