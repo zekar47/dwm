@@ -27,7 +27,7 @@
 **Mod + v**: Toggle floating mode.  
 **Mod + f**: Toggle fullscreen.  
 
-_The rest of this file is the default dwm reame_
+_The rest of this file is the default dwm readme_
 
 dwm - dynamic window manager
 ============================
